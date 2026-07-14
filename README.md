@@ -137,4 +137,4 @@ These skills are designed to be used with Qoder or similar AI assistants to guid
 
 ## License
 
-© 2026 linmowudie. All rights reserved.
+© 2026 马宏宇. All rights reserved.
