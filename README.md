@@ -4,7 +4,7 @@ A comprehensive skill set for developing terminal-based AI Agents with a five-la
 
 ## Author
 
-**linmowudie**  
+**linmowudie(马宏宇)**  
 Email: 1711406673@qq.com
 
 ## Skills Overview
